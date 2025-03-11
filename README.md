@@ -35,3 +35,8 @@ git commit -m 'Nomear commit'
 
 ##Salvar no git
 git push origin 'Nome da Branch'
+
+## minha empresa
+
+1 - setup
+2 - Baixar o GIT
